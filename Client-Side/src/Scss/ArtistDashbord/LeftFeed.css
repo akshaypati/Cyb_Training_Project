@@ -1,0 +1,10 @@
+#div1 {
+  background-image: url("../../images/img4.webp");
+  height: 70rem;
+  width: 100%;
+  background-color: bisque;
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover;
+}
+/*# sourceMappingURL=LeftFeed.css.map */
